@@ -7,8 +7,9 @@
 const arraySet = ["Apple", "Banana", "Coconut", "Donut"]
 
 console.log(arraySet.copyWithin(2, 0, 1))   // Apple, Banana, Apple, Donut
+console.log(arraySet.copyWithin(-2, 0)) // Apple, Banana, Apple, Banana
 
 // trying to console source of array
 
-// the result is that [Apple, Banana, Apple, Donut] since this it was mutate value prior event
+// the result is that [Apple, Banana, Apple, Banana] since this it was mutate value prior event
 console.log(arraySet)
