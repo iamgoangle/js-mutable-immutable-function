@@ -9,8 +9,8 @@ React does not prepared everything like a AngularJS Framework, the developer wil
 In my opinion, it is good to let me realize about coding with non-framework is.
 
 # What do I receive the knowledge from React JS?
-Pure function should be not mutative the value that is the way of Reducer (http://redux.js.org/docs/basics/Reducers.html)[http://redux.js.org/docs/basics/Reducers.html]
+Pure function should be not mutative the value that is the way of Reducer [http://redux.js.org/docs/basics/Reducers.html](http://redux.js.org/docs/basics/Reducers.html)
 
 # References
-(http://vincent.billey.me/pure-javascript-immutable-array)[http://vincent.billey.me/pure-javascript-immutable-array]
-(https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array#Mutator_methods)[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array#Mutator_methods]
+[http://vincent.billey.me/pure-javascript-immutable-array](http://vincent.billey.me/pure-javascript-immutable-array)
+[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array#Mutator_methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array#Mutator_methods)
