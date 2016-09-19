@@ -1,4 +1,4 @@
-# js-mutative-array-function
+# js-mutative-immutative-function
 To learning mutable array function
 
 # Background
