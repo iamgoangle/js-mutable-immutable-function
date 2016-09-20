@@ -1,5 +1,8 @@
-# js-mutative-immutative-function
+# js-mutable-immutable-function
 To learning mutable array function
+
+# Related repo
+[https://github.com/iamgoangle/functional-programming](https://github.com/iamgoangle/functional-programming)
 
 # Background
 About last month ago (08/2016) [react-sandbox](https://github.com/iamgoangle/react-sandbox), I started to learn React JS since it most popular in NPM trends also Google trend. React is a library, not a framework so I should be taken a lot of effort to learn it.
